@@ -1,0 +1,10 @@
+[
+    {
+        "nombre_categoria": "Clasica",
+        "descripcion": "Clasinota"
+    },
+    {
+        "nombre_categoria": "Vegetariana",
+        "descripcion": "Saludable"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "nombre_hamburguesa": "Clasica",
+        "nombre_categoria": "Clasicona",
+        "lista_ingredientes": [
+            "Zanahoria",
+            "Tomate",
+            "Cebolla",
+            "Lechuga"
+        ],
+        "precio": 5000,
+        "nombre_chef": "Alonso"
+    }
+]
